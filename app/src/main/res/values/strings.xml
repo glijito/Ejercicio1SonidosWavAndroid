@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ejercicio1SonidosWav</string>
+    <string name="btn_text">Ejecutar sonido</string>
+</resources>
